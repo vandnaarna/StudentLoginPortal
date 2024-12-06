@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using StudentLoginPortal.Models;
-//using StudentLoginPortal.Models;
 
 namespace StudentLoginPortal.Controllers
 {

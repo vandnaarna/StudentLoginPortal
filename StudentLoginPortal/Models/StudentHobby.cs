@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace StudentLoginPortal.Models;
+﻿namespace StudentLoginPortal.Models;
 
 public partial class StudentHobby
 {
